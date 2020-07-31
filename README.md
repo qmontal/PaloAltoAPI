@@ -14,14 +14,14 @@ PaloAlto python library that works as interface for the PaloAlto API using both 
 ## Prerequisites
 Install the following dependencies:
 
-pandas
-numpy
-configparser
-pan-python
-pandevice
-IPython
-simplejson
-xmltodict
+- *pandas
+- *numpy
+- *configparser
+- *pan-python
+- *pandevice
+- *IPython
+- *simplejson
+- *xmltodict
 
 ## Important Configuration Notes
 
