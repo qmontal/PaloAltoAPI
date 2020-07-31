@@ -1,0 +1,8 @@
+pandas
+numpy
+configparser
+pan-python
+pandevice
+IPython
+simplejson
+xmltodict
