@@ -1,0 +1,5 @@
+[paloalto]
+panorama = panorama.yourcompany.com
+hostname = firewall.yourcompany.com
+username = paloalto
+password = password
